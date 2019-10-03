@@ -1,2 +1,2 @@
-# react-native-swift-template
-A template for new RN projects to use Swift `react-native init MySwiftApp --template react-native-swift-template`
+# react-native-template-swifty
+A template for new RN projects to use Swift `react-native init MySwiftyApp --template swifty`

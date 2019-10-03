@@ -1,14 +1,14 @@
 {
-  "name": "react-native-swift-template",
+  "name": "react-native-template-swifty",
   "version": "0.61.2",
   "description": "React Native Swift Template",
-  "repository": "git@github.com:glenna/react-native-swift-template.git",
+  "repository": "git@github.com:glenna/react-native-template-swifty.git",
   "author": "Glenna Buford",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/glenna/react-native-swift-template/issues"
+    "url": "https://github.com/glenna/react-native-template-swifty/issues"
   },
-  "homepage": "https://github.com/glenna/react-native-swift-template#readme",
+  "homepage": "https://github.com/glenna/react-native-template-swifty#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
