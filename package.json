@@ -1,0 +1,8 @@
+{
+    "name": "react-native-swift-template",
+    "version": "0.61.1",
+    "description": "React Native Swift Template",
+    "repository": "git@github.com:glenna/react-native-swift-template.git",
+    "author": "Glenna Buford",
+    "license": "MIT"
+  }
